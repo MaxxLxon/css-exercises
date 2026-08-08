@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.elrari,
+.elnormi {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.elnormi {
+    background-color: yellow;
+}
+
+.elrari {
+    background-color: black;
+    color: white;
+}
